@@ -4,8 +4,6 @@
     <b>Bem vindos!</b><br><br>
     <i>
         Me chamo Eduardo Orsi.<br>
-        Sou graduado em Análise e Desenvolvimento de Sistemas<br>
-        Atualmente programo para front-end e IoT<br>
     </i><br>
     <a href="https://www.linkedin.com/in/eduorsi/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
