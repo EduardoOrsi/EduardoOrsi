@@ -2,9 +2,6 @@
 
 <p align="center">
     <b>Bem vindos!</b><br><br>
-    <i>
-        Me chamo Eduardo Orsi.<br>
-    </i><br>
     <a href="https://www.linkedin.com/in/eduorsi/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
